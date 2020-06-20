@@ -1,0 +1,11 @@
+# Project exclude paths
+/.gradle/
+/Problems/Boxes/out/
+/Problems/Boxes/out/production/classes/
+/Problems/The longest sequence/out/
+/Problems/The longest sequence/out/production/classes/
+/Problems/The minimum value of N numbers/out/
+/Problems/The minimum value of N numbers/out/production/classes/
+/Problems/The roots of equation/out/
+/Problems/The roots of equation/out/production/classes/
+/Simple Chatty Bot/task/build/
